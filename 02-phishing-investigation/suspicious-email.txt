@@ -1,0 +1,16 @@
+FROM: support@micros0ft-security.com
+TO: employee@company.com
+SUBJECT: Urgent: Your account will be suspended
+
+Hello,
+
+We detected unusual activity on your Microsoft account.
+
+Your account will be suspended within 24 hours unless you verify your identity.
+
+Verify your account here:
+http://micros0ft-security.com/verify
+
+Thank you,
+Microsoft Security Team
+
