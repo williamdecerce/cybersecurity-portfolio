@@ -1,4 +1,125 @@
-# William de Cerce — Cybersecurity Portfolio
+# William De Cerce — Junior Cybersecurity Portfolio
+
+## 👨‍💻 About Me
+
+Junior Cybersecurity professional focused on Security Operations, log analysis, incident investigation and vulnerability assessment.
+
+I recently completed the **Google Cybersecurity Professional Certificate** and built this portfolio to demonstrate practical cybersecurity skills through simulated security labs.
+
+📍 Milan, Italy  
+📧 williamdecerce@gmail.com  
+🔗 GitHub: github.com/williamdecerce  
+🔗 LinkedIn: William De Cerce
+
+---
+
+## 🛡️ Cybersecurity Projects
+
+### 01 — Brute Force Log Analysis
+Analysis of authentication logs to identify suspicious login activity, potential brute-force behavior and post-authentication activity.
+
+**Skills:** Log Analysis · Linux CLI · grep · awk · Incident Analysis
+
+[View Project](./01-brute-force-log-analysis/)
+
+---
+
+### 02 — Phishing Investigation
+Investigation of a simulated phishing email, including sender analysis, domain typosquatting, suspicious URL identification and risk assessment.
+
+**Skills:** Phishing Analysis · IOC Identification · Threat Analysis
+
+[View Project](./02-phishing-investigation/)
+
+---
+
+### 03 — Network Traffic Analysis
+Analysis of simulated network traffic to identify suspicious SSH connection patterns and potential automated activity.
+
+**Skills:** Network Analysis · Traffic Investigation · Linux CLI · grep · awk
+
+[View Project](./03-network-traffic-analysis/)
+
+---
+
+### 04 — Malware Analysis
+Analysis of simulated malware evidence to identify suspicious behaviors, network indicators and potential persistence mechanisms.
+
+**Skills:** Malware Triage · IOC Extraction · Threat Analysis
+
+[View Project](./04-malware-analysis/)
+
+---
+
+### 05 — Vulnerability Assessment
+Assessment of simulated system vulnerabilities based on exposed services, software versions and severity.
+
+**Skills:** Vulnerability Assessment · Risk Prioritization · Security Hardening
+
+[View Project](./05-vulnerability-assessment/)
+
+---
+
+### 06 — Incident Response / SOC Investigation
+End-to-end simulated SOC investigation involving suspicious authentication, command execution, payload retrieval, script execution and unauthorized account creation.
+
+**Skills:** Incident Response · Timeline Reconstruction · IOC Identification · Containment · Eradication · Recovery
+
+[View Project](./06-incident-response/)
+
+---
+
+## 🧰 Skills & Tools
+
+- Security Operations (SOC)
+- Log Analysis
+- Incident Response
+- Phishing Investigation
+- Network Traffic Analysis
+- Malware Triage
+- Vulnerability Assessment
+- Linux Command Line
+- `grep`
+- `awk`
+- Git & GitHub
+- IOC Identification
+- Security Risk Assessment
+
+---
+
+## 🎓 Certification
+
+**Google Cybersecurity Professional Certificate**
+
+Coursera / Google
+
+---
+
+## 🎯 Career Objective
+
+Seeking an entry-level opportunity as a:
+
+- Junior Cybersecurity Analyst
+- SOC Analyst L1
+- Security Monitoring Analyst
+- Junior Information Security Analyst
+- Cybersecurity Intern
+
+---
+
+## ⚠️ Disclaimer
+
+All projects in this repository are **personal cybersecurity laboratories and simulated investigations** created for educational and portfolio purposes.
+
+They do not represent professional cybersecurity work experience or real-world security incidents.
+
+---
+
+## 📫 Contact
+
+**William De Cerce**  
+Milan, Italy  
+📧 williamdecerce@gmail.com# William de Cerce — Cybersecurity Portfolio
 
 ## About Me
 
